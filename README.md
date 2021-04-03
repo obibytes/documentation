@@ -1,9 +1,9 @@
-# Documentation
+# DEVOPS
 
-## Packages installer
+### Books
+- The Phoenix Project
 
-1. [Composer](https://github.com/obibytes/documentation/packages_installer/composer.md)
-2. Pip
+# Python
 
-## PHP Framework
-1. [Symfony](http://github/com)
+### Website
+- [The Hitchhiker’s Guide to Python!](https://python-docs.readthedocs.io/en/latest/)
